@@ -28,8 +28,10 @@ public class Main {
 
         // 1. Write a program to takes a String
         // and print the number of vowels in that String.
+        // e.g Apples - "There are two vowels in the string, Apples"
 
         // 2. Write a program that adds the value two strings
         // using the wrapper classes to parse the strings.
+        // e.g. "5" + "8" = 13
     }
 }
